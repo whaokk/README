@@ -1,2 +1,4 @@
 # README
 READ
+
+加密
