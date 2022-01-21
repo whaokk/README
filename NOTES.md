@@ -7,3 +7,5 @@ https://www.jianshu.com/p/c2eb995ac42a   //SourceTree Push 代码报错：remote
 https://www.freesion.com/article/4493589183/    //【COCOS CREATOR 基础教程(其他)】—— 利用 GITHUB PAGES 发布游戏
 
 https://www.jianshu.com/p/84de47d5050b          //Git操作Support for password authentication was removed on August 13, 2021. Please use a personal ac...
+
+https://www.jianshu.com/p/740db404b925 //git密码修改问题解决方案(Window &Mac)
