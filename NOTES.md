@@ -19,6 +19,16 @@ https://www.jianshu.com/p/b6dfc7c886a9             //在github上部署静态网
 
 https://github.com/whtree/README.git
 
+https://forum.cocos.org/t/topic/68649              //图片压缩 图片加密 生成热更文件插件
+
+https://github.com/hyz1992/hyz-encript             //加密
+  
+https://forum.cocos.org/t/cocos-creator/95492/1    //【分享】Cocos Creator 一种「无侵入」资源加密方案
+
+https://www.jianshu.com/p/55cc581da133?tdsourcetag=s_pcqq_aiomsg  //插件开发
+
+https://forum.cocos.org/t/cocos-creator/58620      //cocos creator加密图片资源方案
+
 
 问题描述：
 
