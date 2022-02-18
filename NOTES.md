@@ -1,3 +1,6 @@
+
+https://forum.cocos.org/t/topic/129342   //帮助独立游戏和中小企业快速实现游戏功能的第三方服务记录
+
 https://www.1fzd.com/thread-179914-1-1.html        //实名认证
 
 https://www.cnblogs.com/code1992/p/11220261.html   //Failed to connect to github.com port 443: Timed out
@@ -88,7 +91,6 @@ git remote set-url origin https://<your_token>@github.com/<USERNAME>/<REPO>.git
 git config --global --unset git.proxy
  
 https://whtree.github.io/game-hcdxg/
-
 
 
 
