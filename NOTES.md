@@ -26,6 +26,16 @@ https://www.jianshu.com/p/55cc581da133?tdsourcetag=s_pcqq_aiomsg  //插件开发
 
 https://forum.cocos.org/t/cocos-creator/58620      //cocos creator加密图片资源方案
 
+https://www.cnblogs.com/peiyu1988/p/7766594.html   //Nodejs MSSQL详细解读
+
+https://www.cnblogs.com/PyLearn/p/7624768.html     //SQL Server学习之路（二）
+
+https://www.cnblogs.com/l199616j/p/13922515.html   //MYSQL连接时错误码2059解决办法
+
+http://sucaixiang.com/regster.html                 //素材巷
+
+https://www.freesion.com/article/3245559672/       //在手机上多次安装同一个APP
+
 
 问题描述：
 
