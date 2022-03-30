@@ -1,3 +1,8 @@
+https://github.com/joewan/cocospanda     //cocospanda是一个基于cocos creator 2.x的前端游戏框架，包括配置文件读取、微信小游戏接入、认证服务器登录、游戏服务器登录、游戏层级管理、游戏资源管理、toast小工具、通用弹框、通用界面、滚动条组件、各种cocos creator控件的使用办法
+
+https://forum.cocos.org/t/topic/113061   //我理解的 cocosCreator asset Bundle 版本2.4.4（跨域资源服务器+大厅子游戏模式
+
+https://forum.cocos.org/t/topic/112146   //手撸三个有关Bundle详细教程，大厅+子游戏模式从入门到进阶，版本Creator 2.4.x
 
 https://forum.cocos.org/t/topic/129342   //帮助独立游戏和中小企业快速实现游戏功能的第三方服务记录
 
@@ -38,6 +43,10 @@ https://www.cnblogs.com/l199616j/p/13922515.html   //MYSQL连接时错误码2059
 http://sucaixiang.com/regster.html                 //素材巷
 
 https://www.freesion.com/article/3245559672/       //在手机上多次安装同一个APP
+
+https://jingyan.baidu.com/article/154b4631292d3828ca8f4190.html    //网络连接正常但ping不通内网
+
+https://www.cnblogs.com/chtzz/p/10741241.html        //WebSocket + Nodejs 的简单使用
 
 
 问题描述：

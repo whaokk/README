@@ -1,23 +1,14 @@
-/*************************修改****************************/
-
-2.8
-物品转换合成成功提示
-试炼获得界面剩余次数显示
-2.9
-排行榜前三名显示
-
-2.18
-商城卡片按钮显示
-
-
-/*********************************************************/
-
-/************************bug******************************/
-struct CMD_GR_ExchangeItemResult
-{
-	int resultID;  //结果id 1.兑换物品不足 2.合成成功 3.合成失败 
-};
-/*********************************************************/
-
-http://192.168.5.7:8083/hotupdate/
-
+/**********************多语言************************/
+		if (languageType == "en") {
+					
+				}
+				else {
+					
+				}
+				if (cc.sys.isBrowser) {
+	var url = window.location.href;
+	var loc = url.substring(url.lastIndexOf('languages=') + 10, url.length);
+	Utils.language_type = loc;
+	console.log('Utils.language_type  loc : ', Utils.language_type);
+}
+/**********************多语言************************/
