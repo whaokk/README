@@ -14,16 +14,16 @@
  等级 | Level  lv | |
  经验 | Experience  exp | |
  职业 | Career | | 
-      | Class | | 
+ 职业 | Class | | 
  角色 | Role | | 
  阵营 | Camp | |
  任务 | Quest | | 来自NPC的、有报酬的一份委托 
-      | Mission | | 故事线，使命相关  
-      | Task | | 生产经营，调度等 
+ 任务 | Mission | | 故事线，使命相关  
+ 任务 | Task | | 生产经营，调度等 
  成就 | Achievement | | 
  活动 | | |
  队伍 | Team | | 
-      | Party | | 国外游戏常用Party表示队伍，国内为了避免某些理解问题，建议使用Team 
+ 队伍 | Party | | 国外游戏常用Party表示队伍，国内为了避免某些理解问题，建议使用Team 
  临时团队 | PUG | | 一个 Pick-up Group，是指一个由通过匹配系统等随机组成的，队伍内的玩家相互不认识的队伍 
  队长 | Leader | | 
  公会 | Guild | |
@@ -32,7 +32,7 @@
  方向 | Direction  dir | |
  地图 | Map |  
  副本 | Instance  inst | | 侧重于创建实例 
-       Dungeon  | | 侧重于游戏内容的描述</br>代码中可能会使用Instance表示对象实例，为避免理解错误建议使用Dungeon 
+ 副本 | Dungeon | | 侧重于游戏内容的描述,代码中可能会使用Instance表示对象实例，为避免理解错误建议使用Dungeon 
  关卡 | Stage | | 
  刷怪点 | Spawn | | 
  聊天 | Chat | | 
@@ -61,7 +61,7 @@
  冲锋枪 | Submachine gun | |  
  霰弹枪 | Shotgun | | 
  手枪 | Handgun | | 指包括左轮手枪、半自动手枪等在内的手枪的统称 
-      | Pistol | | 尤指半自动手枪 
+ 手枪 | Pistol | | 尤指半自动手枪 
  左轮手枪 | Revolver | | 
 
  ---
@@ -110,7 +110,7 @@
  :- | :- | :- | :- | 
  布阵/编队 | Formation | |    
  攻击 | Attack | |    
- 防御  Defence | |    
+ 防御 | Defence | |    
  生命值 | Health Point | HP |  
  魔法值 | Magic Point | MP |  
  怒气值 | Rage | |  
@@ -124,7 +124,7 @@
  力量 | Strength | str |  
  智力 | Intelligence | int |  
  敏捷 | Dexterity | dex | 心智、技巧上的灵活 
-      | Agility | agi | 动作上的快捷 
+ 快捷 | Agility | agi | 动作上的快捷 
  精力 | Vitality | |   
  耐力 | Stamina | |    
  韧性 | Toughness | |    
@@ -148,7 +148,7 @@
  穿透 | Penetration | |    
  诅咒 | Curse | |    
  净化 | Purge | 清除负面buff的动作 | 
-      | Clarity | 净化药水用的是这个 | 
+ 净化 | Clarity | 净化药水用的是这个 | 
  免疫 | Immunity | |    
  无敌 | Invincible | |    
  吸血 | Vampire | |    
@@ -210,7 +210,7 @@
  法师 | Mage | |   
  猎人 | Hunter | |   
  牧师 | Cleric | 可泛指所有的圣职人员 |
-      | Priest | 指专事供奉的圣职人员 |
+ 牧师 | Priest | 指专事供奉的圣职人员 |
  僧人/武僧 | Monk | |   
  弓箭手 | Archer | |  
  火枪手 | Musketeer | |   
@@ -218,13 +218,13 @@
  骑士 | Knight | |   
  德鲁伊 | Druid | |   
  盗贼 | Thief | 尤指「小偷」| 
-      | Rogue | 尤指「强盗」「无赖」|
+ 盗贼 | Rogue | 尤指「强盗」「无赖」|
  刺客 | Assassin | |   
  游侠 | Ranger | |   
  术士 | Warlock | |   
  萨满 | Shaman | |   
  武士 | Samurai | 尤指日本武士 |
- 忍者 | Ninja  | |  
+ 忍者 | Ninja | |  
 
 ---
 
